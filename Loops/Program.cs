@@ -37,7 +37,7 @@
 
         #region Foreach
 
-        //int[] number = {1, 2, 3, 4, 5};
+        //int[] number = {1, 2, 3, 4, 6};
 
         //foreach (var item in number)
         //{
