@@ -143,22 +143,12 @@ for (int i = 0; i < 20; i++)
 
 ---
 
-## 💻 Gereksinimler
+# Proje Hakkında
 
-- .NET SDK (7.0 veya üstü)
-- Visual Studio 2022
-- Konsol uygulaması (Console App)
+Bu örnekler C# dilinin temel kontrol yapılarının öğrenilmesi ve anlaşılması için hazırlanmıştır. Kod içerisindeki yorum satırlarını açarak deneyebilir, değişiklik yaparak farklı durumları test edebilirsiniz.
 
 ---
 
-## ▶️ Çalıştırma
-
-Visual Studio'da `Program.cs` dosyasındaki her bölümü sırayla açarak test edebilirsiniz.  
-Yalnızca bir döngü türü açık olmalıdır, diğerleri yorum satırı (//) olarak kalmalıdır.
-
----
-
-## 📄 Lisans
-
-MIT Lisansı ile paylaşılmıştır.  
-Kodları inceleyebilir, öğrenme amaçlı kullanabilirsiniz.
+**Geliştirici:** Kaaner  
+**Dil:** C#  
+**IDE:** Visual Studio 2022  

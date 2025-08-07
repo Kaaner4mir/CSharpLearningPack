@@ -76,6 +76,12 @@ char ch2 = 'Ω'; // Omega: Ω
 
 ---
 
-## 🧪 Öneri
+# Proje Hakkında
 
-Bu bilgileri pekiştirmek için küçük kod örnekleriyle kendi test projeni oluşturabilirsin. Her veri türü için Console çıktısı alarak nasıl çalıştığını gözlemle!
+Bu örnekler C# dilinin temel kontrol yapılarının öğrenilmesi ve anlaşılması için hazırlanmıştır. Kod içerisindeki yorum satırlarını açarak deneyebilir, değişiklik yaparak farklı durumları test edebilirsiniz.
+
+---
+
+**Geliştirici:** Kaaner  
+**Dil:** C#  
+**IDE:** Visual Studio 2022  
